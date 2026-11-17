@@ -165,3 +165,5 @@ This tutorial demonstrates how Spec-Driven Development can bring more structure 
 Rather than relying entirely on repeated prompting, developers can define requirements, validate generated implementations against acceptance tests, and maintain human oversight throughout the development lifecycle.
 
 **Built as a hands-on educational project for developers exploring AI-assisted software development and Spec-Driven Development.**
+
+**Note**: Port integration is not implemented or demonstrated in this tutorial. Although the project includes optional Port-related configuration and files, the Spec-Driven Development workflow runs independently without Port.
