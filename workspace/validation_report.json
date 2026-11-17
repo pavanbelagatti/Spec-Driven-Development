@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "attempts": 1,
+  "model": "gpt-4.1-mini",
+  "spec": "specs/url_shortener.md",
+  "test_output": "..............                                                           [100%]\n14 passed in 1.44s\n\n"
+}
